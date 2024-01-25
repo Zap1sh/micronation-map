@@ -13,7 +13,7 @@ export default function Home() {
       <main>
         <Header title="Micronation Map" />
         <p className="description">
-          Get started by editing <code>pages/index.js</code>
+          Welcome to Micronation Map! The Map Is Created by My Maps Google.
         </p>
       </main>
 
