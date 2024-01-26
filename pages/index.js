@@ -21,4 +21,3 @@ export default function Home() {
 <p>To add a new Micronation to the Map, Please Visit www.micronation-map.netlify.app/form</p>
 
     </div>
-)
