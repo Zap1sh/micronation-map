@@ -40,8 +40,8 @@ a:hover, a:active {
 <a href="form.js" target="_blank">Add a Micronation to the Map</a>
 
 </body>
+</html>
 
-      <Footer />
+      <Footer/>
     </div>
   )
-}
