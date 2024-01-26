@@ -16,7 +16,7 @@ export default function Home() {
           Please Fill out the Form Below to add your Micronation.
         </p>
 
-<iframe src="https://www.google.com/maps/d/embed?mid=1kfQqQ5Z_3goRO8qbbbF_X3DxtOrgD1E&ehbc=2E312F&noprof=1" width="640" height="480"></iframe>
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSeInarN5XBS8BRQBl7RGMVI6hQu76tyIkNRRw6Za56jYVDvwA/viewform?embedded=true" width="640" height="1514" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
       </main>
 
       <Footer />
