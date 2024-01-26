@@ -20,6 +20,4 @@ export default function Home() {
 
 <button><a href="https://www.micronation-map.netlify.app/form">Add a Micronation to the Map!</a></button>
 
-      <Footer/>
     </div>
-  )
