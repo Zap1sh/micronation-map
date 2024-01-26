@@ -18,6 +18,6 @@ export default function Home() {
 
 <iframe src="https://www.google.com/maps/d/embed?mid=1kfQqQ5Z_3goRO8qbbbF_X3DxtOrgD1E&ehbc=2E312F&noprof=1" width="640" height="480"></iframe>
 
-<p>To add a new Micronation to the Map, Please Visit www.micronation-map.netlify.app/form</p>
+<p>To add a Micronation to the Map, Please Visit www.micronation-map.netlify.app/form</p>
 
     </div>
